@@ -1,0 +1,7 @@
+# IGNORE FILES
+LICENSE
+
+# IGNORE FOLDERS
+/images/*
+/scripts/*
+/stylesheets/*
