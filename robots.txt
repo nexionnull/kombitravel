@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /images/
+Disallow: /scripts/
+Disallow: /stylesheets/
+Disallow: /CNAME
+Disallow: /LICENSE
+Disallow: /gitignore
+
+Sitemap: https://kombitravel.rs/sitemap.xml
