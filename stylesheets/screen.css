@@ -321,7 +321,7 @@ body {
     }
 }
 
-.hero-inner h1 {
+.hero-inner h2 {
     font-family: 'Oswald', sans-serif;
     font-size: clamp(2.1rem, 4.5vw, 3.3rem);
     font-weight: 700;
@@ -330,7 +330,7 @@ body {
     letter-spacing: -.5px
 }
 
-.hero-inner h1 em {
+.hero-inner h2 em {
     background: linear-gradient(135deg, var(--accent), var(--accent3));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
